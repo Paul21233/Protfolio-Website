@@ -29,6 +29,7 @@ import {
     adosupport,
     careserenity,
     story_game,
+    flyrank
   } from "../assets";
   
   export const navLinks = [
@@ -126,16 +127,14 @@ import {
   
   const experiences = [
     {
-      title: "Python App Developer",
-      company_name: "CodeAlpha",
-      icon: codealpha,
-      iconBg: "#E6DEDD",
-      date: "July 2024 - September 2024",
+      title: "Machine Learning Intern",
+      icon: flyrank,
+      iconBg: "#383E56",
+      date: "June 2026 - Present",
       points: [
-        "Developing and maintaining applications using Python and other related technologies.",
-        "Doing indivisual tasks in each month",
-        "Implementing user-friendly design.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and experimented with machine learning models for real-world business and data-driven problems.",
+        "Worked on data preprocessing, cleaning, feature engineering, and exploratory data analysis for ML workflows.",
+        "Applied AI/ML techniques to practical datasets, translating business requirements into data-driven solutions.",
       ],
     },
     {
@@ -146,6 +145,19 @@ import {
       points: [
         "Developing and maintaining a web applications using React.js, Node.Js, Express.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
+      title: "Python App Developer",
+      company_name: "CodeAlpha",
+      icon: codealpha,
+      iconBg: "#E6DEDD",
+      date: "July 2024 - September 2024",
+      points: [
+        "Developing and maintaining applications using Python and other related technologies.",
+        "Doing indivisual tasks in each month",
+        "Implementing user-friendly design.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
