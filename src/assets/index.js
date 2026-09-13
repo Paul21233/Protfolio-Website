@@ -28,6 +28,7 @@ import british_council from "./company/british_council.png";
 import oceancon from "./company/ocean_conservancy.png";
 import cisco from "./company/cisco.png";
 import codeorg from "./company/codeorg.png";
+import flyrank from "./company/flyrank.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -73,4 +74,5 @@ export {
   adosupport,
   careserenity,
   story_game,
+  flyrank
 };
